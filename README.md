@@ -1,7 +1,7 @@
 # panagiotis-christodoulou.github.io
 # 👋 Hi, I'm Panagiotis Christodoulou
 
-🎓 Computer Science and Engineering graduate at **Cyprus University of Technology**
+🎓 Computer Science and Engineering graduate from the **Cyprus University of Technology**
 💻 Aspiring software developer | Interested in **Web Development & Data Processing**
 🌱 Currently working as a **Front-End developer**
 
