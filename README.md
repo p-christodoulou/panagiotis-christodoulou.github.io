@@ -17,15 +17,13 @@
 ## 📂 Featured Projects 
 Here are some of the projects I’ve built / Worked on:
 
-- **🏥 Private Clinic Management System**  
+- **🏥 Private Clinic Management System**  [🔗 Thesis](https://github.com/p-christodoulou/Thesis.git)
   A web app for managing a clinic with doctors, patients, and admin features.  
-  [🔗 Thesis](https://github.com/p-christodoulou/Thesis.git)
-
-- **💈 Barbershop Management System**
+  
+- **💈 Barbershop Management System**  [🔗 Barbershop-project](https://github.com/p-christodoulou/Barbershop-project)
   A university project built as a team of 5.
   A project that includes authentication system, appointment booking, product shopping, login/signup, and reviews.
-  [🔗 Barbershop-project](https://github.com/p-christodoulou/Barbershop-project)
-
+ 
 ---
 
 ## 📫 Connect with Me
