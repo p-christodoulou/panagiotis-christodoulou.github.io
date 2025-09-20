@@ -24,13 +24,13 @@ Here are some of the projects I’ve built / Worked on:
 - **💈 Barbershop Management System**
   A university project built as a team of 5.
   A project that includes authentication system, appointment booking, product shopping, login/signup, and reviews.
-  [🔗 Barbershop-project](https://github.com/p-christodoulou/Barbershop-project) // This project was built  
+  [🔗 Barbershop-project](https://github.com/p-christodoulou/Barbershop-project)
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: p-christodoulou(https://github.com/p-christodoulou)  
-- LinkedIn: Panagiotis Christodoulou(https://linkedin.com/in/p-christodoulou)  
+- GitHub: p-christodoulou (https://github.com/p-christodoulou)  
+- LinkedIn: Panagiotis Christodoulou (https://linkedin.com/in/p-christodoulou)  
 - Email: panayiotis.christod@gmail.com
 
 ---
